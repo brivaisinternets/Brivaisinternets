@@ -1,0 +1,54 @@
+* Place your CSS styles in this file */
+
+
+head {
+    background-color: #F1F1F1;
+}
+header {
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 20px;bash
+npm install mongoose
+
+}
+h3 {
+text-shadow: 2px 2px 5px blueviolet;
+  border: 5px solid powderblue;
+  padding: 30px;
+}
+
+body {
+  background-image: linear-gradient(to right, #ff66c4, #ffde59);
+}
+h1 {
+    text-align: center;
+    font-family: "Source Monospace", Lucida Console;
+    font-weight: bold;
+    font-size: 45px;
+    color: blue;
+    background-color: white;
+}
+
+ #respond {
+  margin-top: 40px;
+}
+
+#respond input[type='text'],
+#respond textarea {
+  margin-bottom: 10px;
+  display: block;
+  width: 100%;
+
+  border: 1px solid rgba(0, 0, 0, 0.903);
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -o-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -khtml-border-radius: 5px;
+  border-radius: 5px;
+
+  line-height: 1.4em;
+}
+
+
+
